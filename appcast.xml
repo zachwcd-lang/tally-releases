@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tally</title>
+        <item>
+            <title>0.7.0</title>
+            <pubDate>Thu, 17 Sep 2026 10:29:04 -0700</pubDate>
+            <link>https://github.com/zachwcd-lang/tally-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally-0.7.0.dmg" length="3535368" type="application/octet-stream" sparkle:edSignature="4gt2Bcd2Ec+IFin5UuEfTJZxRHRcfrN+o9894XKSmJDfzqEDUHBCQRT2IJk7+tLxZlwkuT/14vUnIO6yNUlWDQ=="/>
+        </item>
+    </channel>
+</rss>
