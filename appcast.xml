@@ -3,6 +3,21 @@
     <channel>
         <title>Tally</title>
         <item>
+            <title>0.9.2</title>
+            <pubDate>Thu, 17 Sep 2026 12:55:51 -0700</pubDate>
+            <link>https://github.com/zachwcd-lang/tally-releases</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally-0.9.2.dmg" length="3727484" type="application/octet-stream" sparkle:edSignature="OS3upJluxwYIdcZbu9rsdW9PXG0SRKXcN9ff6fdKBhZcmmyi1tQkx08jfNmKN4phWBsIDLxQTIfS9UMsetX1BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally6-5.delta" sparkle:deltaFrom="5" length="388138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cpvgKlsCAZ05xZqDw+MU5v+wXDOA+FxSQZp4BoODUXBKqBXui0xQwpsccV94xAqV4XcteX/+5oHWebnv78WPBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally6-4.delta" sparkle:deltaFrom="4" length="473278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OMtKR94du8YQGLJ3Ag3uB2czyC1tWEEUVQWpFhHSAjVVRn1c8NynKu0nYMyrLEoMOkNCuKQpgvjl1easxCQdDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally6-3.delta" sparkle:deltaFrom="3" length="583142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6r8C1FTJDMvS+oEtNlrjZaS1Mk7nkHJ6zqwcMMQRyQeIUsnxDEInKmtKq26036kCVCtW1dpNhmRAB1JA4JzZDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally6-2.delta" sparkle:deltaFrom="2" length="640034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PufDVwpRYsHefpTJ6kAgjuyi/AgozfyM+zSGWmEqX8nPXxXEhtGgamk1J2xiHrbT+qvWSRLCOTJBn/Seap1OCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.1</title>
             <pubDate>Thu, 17 Sep 2026 12:26:58 -0700</pubDate>
             <link>https://github.com/zachwcd-lang/tally-releases</link>
@@ -27,18 +42,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally4-3.delta" sparkle:deltaFrom="3" length="535862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BH/YhuSFRrYCyGmEJVuKMqryv8OQ6QkkKgmt9EDXfZA77WXocHQ6cjY2DyJEQw19pK/QNu9NH2j1woJxLyMnAA=="/>
                 <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally4-2.delta" sparkle:deltaFrom="2" length="598798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GtiaqI1YbaxwKs4VbDk0W+nC5wxv4bTNsJCfPYcfbWNVV2HOAm1uZfv5XP20rjg0JQLXNhyz666m34ZJdYF9AQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.8.0</title>
-            <pubDate>Thu, 17 Sep 2026 10:58:04 -0700</pubDate>
-            <link>https://github.com/zachwcd-lang/tally-releases</link>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally-0.8.0.dmg" length="3610017" type="application/octet-stream" sparkle:edSignature="krfMrfFlbRn4M+h6fod1nNCvHDHDkmE8/JYLZNvgJxQUG3swh+tsfvWQGUj14CrQVbSMDDYy08x7ufbMGxKPAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/zachwcd-lang/tally-releases/main/Tally3-2.delta" sparkle:deltaFrom="2" length="393294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/Zk2IcP3kuqynPN3y1wfPotnmuLphXDtC5iLODRZqm0aZMLqbtBvg84ERSzXbhjxzWLoo8ZJw/h/ssIJV3OVCQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
